@@ -1,0 +1,7 @@
+data/
+mysql/
+*.sock
+*.log
+__pycache__/
+.env
+.git
